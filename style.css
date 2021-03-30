@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,200;0,400;0,500;0,700;1,200&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    overflow: hidden;
+    margin: 2rem
+}
+
+/* 
+font family - sets the default font 
+display:flex - sets  up the flex box existence
+flex-direction - determines where the items fall in line row vs column
+align-items - aligns horizontally
+justify-content - aligns vertically
+height - 100vh sets the height to the full monitors height
+overflow - handles what happens with overflow content, hidden means no scroll bars
+margin - hands how much space the boy has between the edge of the screen
+*/
