@@ -1,5 +1,7 @@
 # 50 Days of JS, HTML, & CSS 
-## Project 0: Words
+## Project 16: Drink Water
+
+All of the 50 Days of JS, HTML, & CSS projects are from the Udemy course 50 Days of JS by Brad Traversy.
 
 ### Directions for Use:
 
@@ -10,7 +12,7 @@
 ### Contributors:
 
 Bug reports and pull requests are welcome on GitHub at:
-https://github.com/SophiaGrace16/PROJECTREPO
+https://github.com/SophiaGrace16/drink_water_50DaysofJS
 
 ### License:
 
